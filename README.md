@@ -1,4 +1,4 @@
-# #What does it do?
+## What does it do?
 ### This program functions as a menu-driven tool enabling users to choose from a range of options for generating and displaying shapes made of asterisks. The available shapes include rectangles, downward and upward-facing right triangles, as well as rectangles with random dimensions. Users can also opt to exit the program, and the system incorporates checks to handle and rectify any improper menu selections.
 
 ## What I learned:
